@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="Text_Classification",
+    name="hate",
     version="0.0.1",
     author="RajaGopal Kesiraju",
     author_email="rajgopal.kesiraju@gmail.com",
